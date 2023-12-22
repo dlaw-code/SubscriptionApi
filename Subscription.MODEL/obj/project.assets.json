@@ -815,19 +815,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bsahe\\.nuget\\packages\\": {}
+    "C:\\Users\\Decagon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bsahe\\source\\repos\\Subscription Api Task\\Subscription.MODEL\\Subscription.MODEL.csproj",
+      "projectUniqueName": "C:\\Users\\Decagon\\Documents\\GitHub\\SubscriptionApi\\Subscription.MODEL\\Subscription.MODEL.csproj",
       "projectName": "Subscription.MODEL",
-      "projectPath": "C:\\Users\\bsahe\\source\\repos\\Subscription Api Task\\Subscription.MODEL\\Subscription.MODEL.csproj",
-      "packagesPath": "C:\\Users\\bsahe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bsahe\\source\\repos\\Subscription Api Task\\Subscription.MODEL\\obj\\",
+      "projectPath": "C:\\Users\\Decagon\\Documents\\GitHub\\SubscriptionApi\\Subscription.MODEL\\Subscription.MODEL.csproj",
+      "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Decagon\\Documents\\GitHub\\SubscriptionApi\\Subscription.MODEL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bsahe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -874,7 +874,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

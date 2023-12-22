@@ -107,7 +107,7 @@ namespace Subscription.API.Service.Implementation
             catch (Exception ex)
             {
                 _logger.LogError(ex.Message, ex);
-                response.ErrorMessages = new List<string>() { "Error in creating service id" };
+                response.ErrorMessages = new List<string>() { ex.Message };
                 response.StatusCode = 500;
                 response.DisplayMessage = "Error";
                 return response;

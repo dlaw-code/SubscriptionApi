@@ -24,6 +24,10 @@ namespace Subscription.API.Controllers
         [HttpPost("register")]
         public async Task<IActionResult> Register(SignUp signUp)
         {
+            if(!ModelState.IsValid) { 
+            
+            return BadRequest(ModelState);
+            }
             var registerUser = await _accountService.RegisterUser(signUp);
             if (registerUser.StatusCode == 200)
             {

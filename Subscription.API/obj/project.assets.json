@@ -2454,19 +2454,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bsahe\\.nuget\\packages\\": {}
+    "C:\\Users\\Decagon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bsahe\\source\\repos\\Subscription Api Task\\Subscription.API\\Subscription.API.csproj",
+      "projectUniqueName": "C:\\Users\\Decagon\\Documents\\GitHub\\SubscriptionApi\\Subscription.API\\Subscription.API.csproj",
       "projectName": "Subscription.API",
-      "projectPath": "C:\\Users\\bsahe\\source\\repos\\Subscription Api Task\\Subscription.API\\Subscription.API.csproj",
-      "packagesPath": "C:\\Users\\bsahe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bsahe\\source\\repos\\Subscription Api Task\\Subscription.API\\obj\\",
+      "projectPath": "C:\\Users\\Decagon\\Documents\\GitHub\\SubscriptionApi\\Subscription.API\\Subscription.API.csproj",
+      "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Decagon\\Documents\\GitHub\\SubscriptionApi\\Subscription.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bsahe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2480,11 +2480,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\bsahe\\source\\repos\\Subscription Api Task\\Subscription.DATA\\Subscription.DATA.csproj": {
-              "projectPath": "C:\\Users\\bsahe\\source\\repos\\Subscription Api Task\\Subscription.DATA\\Subscription.DATA.csproj"
+            "C:\\Users\\Decagon\\Documents\\GitHub\\SubscriptionApi\\Subscription.DATA\\Subscription.DATA.csproj": {
+              "projectPath": "C:\\Users\\Decagon\\Documents\\GitHub\\SubscriptionApi\\Subscription.DATA\\Subscription.DATA.csproj"
             },
-            "C:\\Users\\bsahe\\source\\repos\\Subscription Api Task\\Subscription.MODEL\\Subscription.MODEL.csproj": {
-              "projectPath": "C:\\Users\\bsahe\\source\\repos\\Subscription Api Task\\Subscription.MODEL\\Subscription.MODEL.csproj"
+            "C:\\Users\\Decagon\\Documents\\GitHub\\SubscriptionApi\\Subscription.MODEL\\Subscription.MODEL.csproj": {
+              "projectPath": "C:\\Users\\Decagon\\Documents\\GitHub\\SubscriptionApi\\Subscription.MODEL\\Subscription.MODEL.csproj"
             }
           }
         }
@@ -2545,7 +2545,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

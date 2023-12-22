@@ -15,3 +15,21 @@ C:\Users\bsahe\source\repos\Subscription Api Task\Subscription.DATA\obj\Debug\ne
 C:\Users\bsahe\source\repos\Subscription Api Task\Subscription.DATA\obj\Debug\net6.0\Subscription.DATA.pdb
 C:\Users\bsahe\source\repos\Subscription Api Task\Subscription.DATA\obj\Debug\net6.0\Subscription.DATA.genruntimeconfig.cache
 C:\Users\bsahe\source\repos\Subscription Api Task\Subscription.DATA\obj\Debug\net6.0\ref\Subscription.DATA.dll
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\bin\Debug\net6.0\Subscription.DATA.deps.json
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\bin\Debug\net6.0\Subscription.DATA.runtimeconfig.json
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\bin\Debug\net6.0\Subscription.DATA.dll
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\bin\Debug\net6.0\Subscription.DATA.pdb
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\bin\Debug\net6.0\Subscription.MODEL.dll
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\bin\Debug\net6.0\Subscription.MODEL.pdb
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\obj\Debug\net6.0\Subscription.DATA.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\obj\Debug\net6.0\Subscription.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\obj\Debug\net6.0\Subscription.DATA.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\obj\Debug\net6.0\Subscription.DATA.AssemblyInfo.cs
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\obj\Debug\net6.0\Subscription.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\obj\Debug\net6.0\Subscription.DATA.sourcelink.json
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\obj\Debug\net6.0\Subscription.DATA.csproj.CopyComplete
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\obj\Debug\net6.0\Subscription.DATA.dll
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\obj\Debug\net6.0\refint\Subscription.DATA.dll
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\obj\Debug\net6.0\Subscription.DATA.pdb
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\obj\Debug\net6.0\Subscription.DATA.genruntimeconfig.cache
+C:\Users\Decagon\Documents\GitHub\SubscriptionApi\Subscription.DATA\obj\Debug\net6.0\ref\Subscription.DATA.dll

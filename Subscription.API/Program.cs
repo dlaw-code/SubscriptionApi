@@ -16,7 +16,17 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.ConfigureLibrary(builder.Configuration);
 
-builder.Services.AddIdentity<ServiceUser, IdentityRole>().AddEntityFrameworkStores<SubscriptionContextDb>().AddDefaultTokenProviders();
+
+builder.Services.AddIdentity<ServiceUser, IdentityRole>(op =>
+{
+    op.Password.RequireDigit = false;
+    op.Password.RequireUppercase = false;
+    op.Password.RequireLowercase = false;
+    op.Password.RequiredLength = 1;
+    op.Password.RequireNonAlphanumeric = false;
+    op.Password.RequiredUniqueChars = 0;
+}).AddEntityFrameworkStores<SubscriptionContextDb>().AddDefaultTokenProviders();
+
 builder.Services.AddDbContext<SubscriptionContextDb>(dbContextOptions => dbContextOptions.UseNpgsql(builder.Configuration["ConnectionStrings:DefaultConnection"]));
 
 builder.Services.AddScoped<IAccountRepo, AccountRepo>();
@@ -30,8 +40,8 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 /*if (app.Environment.IsDevelopment())
 {*/
-    app.UseSwagger();
-    app.UseSwaggerUI();
+app.UseSwagger();
+app.UseSwaggerUI();
 /*}*/
 
 app.UseHttpsRedirection();
